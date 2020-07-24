@@ -1,4 +1,4 @@
 # Nike Online Store Design App UI in Flutter
 
 # Inspiration
-https://dribbble.com/shots/6824842-Online-Store-Nike-Shoes-App
+![alt text](https://github.com/maulikdadhaniya/Nike-Online-Store-UI-challenge/blob/master/preview/nikestore.png?raw=true)
